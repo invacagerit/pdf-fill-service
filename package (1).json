@@ -1,0 +1,9 @@
+{
+  "name": "pdf-fill-service",
+  "version": "1.0.0",
+  "description": "Servicio gratuito de relleno de campos AcroForm en PDF (reemplaza PDF.co) - Vercel",
+  "type": "module",
+  "dependencies": {
+    "pdf-lib": "^1.17.1"
+  }
+}
